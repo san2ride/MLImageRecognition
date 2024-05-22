@@ -13,6 +13,7 @@
 		F727318E2BFE6DE000D41BE7 /* CatsvsDogsImageClassifier.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = F727318D2BFE6DE000D41BE7 /* CatsvsDogsImageClassifier.mlmodel */; };
 		F72731902BFE6F4500D41BE7 /* ImageClassificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F727318F2BFE6F4500D41BE7 /* ImageClassificationView.swift */; };
 		F72731922BFE73AD00D41BE7 /* UIImage+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = F72731912BFE73AD00D41BE7 /* UIImage+Ext.swift */; };
+		F72731942BFE74BA00D41BE7 /* ProbabilityListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F72731932BFE74BA00D41BE7 /* ProbabilityListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		F727318D2BFE6DE000D41BE7 /* CatsvsDogsImageClassifier.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = CatsvsDogsImageClassifier.mlmodel; sourceTree = "<group>"; };
 		F727318F2BFE6F4500D41BE7 /* ImageClassificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageClassificationView.swift; sourceTree = "<group>"; };
 		F72731912BFE73AD00D41BE7 /* UIImage+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+Ext.swift"; sourceTree = "<group>"; };
+		F72731932BFE74BA00D41BE7 /* ProbabilityListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProbabilityListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				F727317D2BFE6D8400D41BE7 /* ImageClassificationApp.swift */,
 				F72731832BFE6D8800D41BE7 /* Preview Content */,
 				F72731912BFE73AD00D41BE7 /* UIImage+Ext.swift */,
+				F72731932BFE74BA00D41BE7 /* ProbabilityListView.swift */,
 			);
 			path = ImageClassification;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				F72731922BFE73AD00D41BE7 /* UIImage+Ext.swift in Sources */,
 				F727318E2BFE6DE000D41BE7 /* CatsvsDogsImageClassifier.mlmodel in Sources */,
 				F72731902BFE6F4500D41BE7 /* ImageClassificationView.swift in Sources */,
+				F72731942BFE74BA00D41BE7 /* ProbabilityListView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
