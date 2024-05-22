@@ -12,6 +12,7 @@
 		F72731852BFE6D8800D41BE7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F72731842BFE6D8800D41BE7 /* Preview Assets.xcassets */; };
 		F727318E2BFE6DE000D41BE7 /* CatsvsDogsImageClassifier.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = F727318D2BFE6DE000D41BE7 /* CatsvsDogsImageClassifier.mlmodel */; };
 		F72731902BFE6F4500D41BE7 /* ImageClassificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F727318F2BFE6F4500D41BE7 /* ImageClassificationView.swift */; };
+		F72731922BFE73AD00D41BE7 /* UIImage+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = F72731912BFE73AD00D41BE7 /* UIImage+Ext.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		F72731842BFE6D8800D41BE7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F727318D2BFE6DE000D41BE7 /* CatsvsDogsImageClassifier.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = CatsvsDogsImageClassifier.mlmodel; sourceTree = "<group>"; };
 		F727318F2BFE6F4500D41BE7 /* ImageClassificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageClassificationView.swift; sourceTree = "<group>"; };
+		F72731912BFE73AD00D41BE7 /* UIImage+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+Ext.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				F72731812BFE6D8800D41BE7 /* Assets.xcassets */,
 				F727317D2BFE6D8400D41BE7 /* ImageClassificationApp.swift */,
 				F72731832BFE6D8800D41BE7 /* Preview Content */,
+				F72731912BFE73AD00D41BE7 /* UIImage+Ext.swift */,
 			);
 			path = ImageClassification;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F727317E2BFE6D8400D41BE7 /* ImageClassificationApp.swift in Sources */,
+				F72731922BFE73AD00D41BE7 /* UIImage+Ext.swift in Sources */,
 				F727318E2BFE6DE000D41BE7 /* CatsvsDogsImageClassifier.mlmodel in Sources */,
 				F72731902BFE6F4500D41BE7 /* ImageClassificationView.swift in Sources */,
 			);
